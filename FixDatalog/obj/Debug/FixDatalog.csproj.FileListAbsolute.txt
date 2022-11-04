@@ -1,0 +1,10 @@
+c:\users\boule\documents\visual studio 2015\Projects\FixDatalog\FixDatalog\obj\Debug\FixDatalog.Form1.resources
+c:\users\boule\documents\visual studio 2015\Projects\FixDatalog\FixDatalog\obj\Debug\FixDatalog.Properties.Resources.resources
+c:\users\boule\documents\visual studio 2015\Projects\FixDatalog\FixDatalog\obj\Debug\FixDatalog.csproj.GenerateResource.Cache
+C:\Users\boule\Documents\Visual Studio 2015\Projects\FixDatalog\FixDatalog\obj\Debug\FixDatalog.csprojAssemblyReference.cache
+C:\Users\boule\Documents\Visual Studio 2015\Projects\FixDatalog\FixDatalog\obj\Debug\FixDatalog.FormEdit.resources
+C:\Users\boule\Documents\Visual Studio 2015\Projects\FixDatalog\FixDatalog\bin\Debug\FixDatalog2.exe.config
+C:\Users\boule\Documents\Visual Studio 2015\Projects\FixDatalog\FixDatalog\bin\Debug\FixDatalog2.exe
+C:\Users\boule\Documents\Visual Studio 2015\Projects\FixDatalog\FixDatalog\bin\Debug\FixDatalog2.pdb
+C:\Users\boule\Documents\Visual Studio 2015\Projects\FixDatalog\FixDatalog\obj\Debug\FixDatalog2.exe
+C:\Users\boule\Documents\Visual Studio 2015\Projects\FixDatalog\FixDatalog\obj\Debug\FixDatalog2.pdb
